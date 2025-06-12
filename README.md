@@ -1,2 +1,2 @@
 # IBL-ITS
-Content for the ITS mentor
+Content of the its.syr.edu website for the ITS mentor.
